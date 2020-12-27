@@ -23,6 +23,7 @@ body
    margin: 25px; 
    border: 2px solid #000000;
    border-radius: 50px;
+   position: absolute;
 }
 
 .origami
@@ -33,7 +34,7 @@ body
     margin: 25px;
     width: 310px;
     font-family: fantasy;
-    position: absolute;
+  
 }
 
 a
