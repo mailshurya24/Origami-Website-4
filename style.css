@@ -31,7 +31,7 @@ body
     border-radius: 20px;
     background-color: #ffffff;
     padding: 30px;
-    margin: 25px;
+    margin-left: 250px;
     width: 310px;
     font-family: fantasy;
   
@@ -57,7 +57,7 @@ a:visited
     transform: scale(1.2);
 }
 
-.origami:hover img 
+.origami img 
 {
     position: relative;
 }
